@@ -1,2 +1,5 @@
-# terraform-gcp-recipes
-This repo saves different configurations of how to create resources in Google Cloud Platform.
+# Terraform GCP Recips
+
+The purpose of this repo is provide an easy terraform templating for common architectures in GCP.
+
+In the next days I will be updating the recipes and their architectures :) 
